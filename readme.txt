@@ -5,5 +5,9 @@ Git has a mutable index called stage.
 branch main22
 =======
 branch main2
+<<<<<<< HEAD
 branch main3
 >>>>>>> main3
+=======
+branch main33
+>>>>>>> fa
